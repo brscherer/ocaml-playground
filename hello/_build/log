@@ -1,0 +1,6 @@
+# dune init proj hello
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/brscherer/.cache/dune/db
+# Workspace root: /Users/brscherer/dev/ocaml-playground/hello
+# Auto-detected concurrency: 10
